@@ -26,7 +26,7 @@ Python's Applications:
 
 Day 1
 
-    [Join our Slack community](https://www.frontendmentor.io/slack)
+[Join our Slack community](https://www.frontendmentor.io/slack)
 
 
 
