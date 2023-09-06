@@ -8,11 +8,9 @@ I am learing Python development and this is my roadmap , I will add steps after 
     
 Introduction to Python:
 
-        Google can provide you with a better introduction, but for the sake of this diary, I'm going to provide as much information as I know.
-
-    Python is a high-level programming language developed by Guido Van Rossum in 1991. Python itself is written in the C programming language.
-
-    Python's Applications:
+Google can provide you with a better introduction, but for the sake of this diary, I'm going to provide as much information as I know.
+Python is a high-level programming language developed by Guido Van Rossum in 1991. Python itself is written in the C programming language.
+Python's Applications:
 
 1.    Backend web development
 2.    Software development
