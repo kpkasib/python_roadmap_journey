@@ -24,6 +24,10 @@ Python's Applications:
 
 
 
+Day 1
+
+    [Variables](kpkasib/python_roadmap_journey/varible.ipynb)
+
 
 
 
