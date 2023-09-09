@@ -26,7 +26,7 @@ Python's Applications:
 
 Day 1
 
-    [Variables](varible.ipynb)
+[Variables](varible.ipynb)
 
 
 
